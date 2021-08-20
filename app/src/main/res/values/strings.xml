@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> Tute2 </string>
+    <string name="et_value">Enter a temperature value</string>
+    <string name="radioButton1">Celsius</string>
+    <string name="radioButton2">Fahrenheit</string>
+    <string name="b_calculate">Calculate</string>
+
+</resources>
